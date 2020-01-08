@@ -1,6 +1,6 @@
 # Codebook
 
-For each observation the following attributes are provied in the dataset
+For each observation the following attributes are provided in the dataset
 
 ### Activity 
 An identifier for the activity for the observation
