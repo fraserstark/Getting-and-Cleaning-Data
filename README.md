@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data
-This repository contains the solution files for Courera's Getting and Cleaning Data assignment. 
+This repository contains the solution files for Coursera's Getting and Cleaning Data assignment. 
 
 ## Overview 
 One of the most exciting areas in all of data science right now is wearable computing - see for example this article http://www.insideactivitytracking.com/data-science-activity-tracking-and-the-battle-for-the-worlds-top-sports-brand/
